@@ -1,5 +1,5 @@
 {
-    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$schema": "https://json-schema.org/draft-07/schema",
     "title": "Archinstall Config",
     "description": "A schema for the archinstall command config, more info over at https://archinstall.readthedocs.io/installing/guided.html#options-for-config",
     "type": "object",
