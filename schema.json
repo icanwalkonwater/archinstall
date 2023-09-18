@@ -24,7 +24,7 @@
                         "pulseaudio"
                     ]
                 }
-            },
+            }
         },
         "bootloader": {
             "description": "Bootloader  to be installed",
